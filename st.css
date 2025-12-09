@@ -1,0 +1,43 @@
+body{
+    background-image: url(Altja_jõgi_Lahemaal.jpg);
+
+}
+header{
+    margin-top: 200px;
+    translate: 470px 0px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 100px;
+}
+h1{
+    margin: 0px auto;
+    font-size: 85px;
+    color: rgb(130, 130, 130);
+    text-align: center;
+}
+main{
+    text-align: center;
+    font-size: 30px;
+    width: 100%;
+    margin: 0 auto;
+}
+button{
+    border-radius: 20px;
+    margin: 50px auto;
+    font-size: 50px;
+    height: 100px;
+    width: 250px;
+    background-color: rgb(173, 230, 180);
+}
+button:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    background-color: rgb(29, 82, 14);
+    color: white;
+}
+button:active{
+    text-decoration:double underline;
+    background-color: rgb(10, 50, 5);
+}
